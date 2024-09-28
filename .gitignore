@@ -110,3 +110,4 @@ venv.bak/
 4_Convolutional/data/MNIST/raw/train-images-idx3-ubyte
 4_Convolutional/data/MNIST/raw/train-labels-idx1-ubyte
 4_Convolutional/mnist.npz
+5_Transformers/rrn-lm.ckpt
