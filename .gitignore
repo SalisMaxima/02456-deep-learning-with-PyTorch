@@ -112,3 +112,5 @@ venv.bak/
 4_Convolutional/mnist.npz
 5_Transformers/rrn-lm.ckpt
 *.pickle
+*.mp4
+*.mp4
